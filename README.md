@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+**Blog post:** https://dev.to/iamandrewluca/implicit-clsx-in-react-2212
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
