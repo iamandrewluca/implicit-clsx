@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className={["App1", "App1", { "App2": true }]}>
-      <header className="App-header">
+    <div className={["App", "App1", { "App2": true }]}>
+      <header className={{ "App-header": true, "App-header2": false }}>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
